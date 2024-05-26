@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appCalculadora</string>
+
+    <string name="etUsername"></string>
+    <string name="etPassword"></string>
+    <string name="btnLogin"></string>
+</resources>
