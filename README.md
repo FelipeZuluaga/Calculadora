@@ -1,8 +1,9 @@
 # Calculadora
-Calculadora Contexto de la situación problema
 
-Integrantes del grupo
+## Contexto de la Situación Problema
+(Escribe aquí una breve descripción del problema o situación que aborda la calculadora).
 
-Miguel Ángel Romero Romero
-Carlos Fernando Jiménez Malagón
-Andrés Felipe Zuluaga Garzón
+## Integrantes del Grupo
+1. **Miguel Ángel Romero Romero**  
+2. **Carlos Fernando Jiménez Malagón**  
+3. **Andrés Felipe Zuluaga Garzón** 
