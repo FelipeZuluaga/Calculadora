@@ -1,7 +1,7 @@
 # Calculadora
 
 ## Contexto de la Situación Problema
-(Escribe aquí una breve descripción del problema o situación que aborda la calculadora).
+Calculadora Contexto de la situación problema
 
 ## Integrantes del Grupo
 1. **Miguel Ángel Romero Romero**  
